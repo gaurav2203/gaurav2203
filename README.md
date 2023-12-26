@@ -4,8 +4,8 @@ Hi 👋 My name is Gaurav Tank
 Data Science | Machine Learning | DevOps
 ----------------------------------------
 
-* 🌍  I'm based in Rajasthan, India
-* ✉️  You can contact me at [gauravtank2203@gmail.com](mailto:gauravtank2203@gmail.com)
+* 🌍  I'm based in Toronto, Canada
+* ✉️  You can contact me at [gaurav22.tank@gmail.com](mailto:gaurav22.tank@gmail.com)
 * 🧠  I'm learning Data Science
 
 ### Skills
